@@ -1,0 +1,84 @@
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+D:\Documents\2do curso\2do cuatrimestre\BBDD\practicas\Practica 3\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\P3 TRENES\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\usuario\Desktop\Copias de seguridad\Consultas\Definitivo\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\DEFINITIVA\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\entrega\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\usuario\Downloads\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbprojAssemblyReference.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Resources.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.Cuadro_Conexión.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.ventanaPrincipal.resources
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.GenerateResource.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.vbproj.CoreCompileInputs.cache
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.xml
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\obj\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.exe
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.pdb
+C:\Users\Desiderio\Desktop\Ingenieria Informática\2º CURSO\Segundo cuatrimestre\Base de Datos\Practicas\Practica 3\Entrega definitiva\GestionTrenes\GestionTrenes\bin\x64\Debug\GestionTrenes.xml
